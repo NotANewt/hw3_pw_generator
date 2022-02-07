@@ -17,6 +17,11 @@ After all prompts are addressed, a password is generated that matches the select
 
 ![The Password Generator webpage includes the title "Password Generator", a box with text where the password will be written, with a red button on the bottom that says "Generate Password".](./assets/img/03-javascript-homework-demo.png)
 
+### Contact Information
+
+- NotANewt's email: [Email Me](mailto:meegan.r.anderson@gmail.com)
+- NotANewt's gitHub profile: [NotANewt/profile](https://github.com/NotANewt)
+
 ### Links To Application
 
 - Here is the repo: [NotANewt/hw3_pw_generator](https://github.com/NotANewt/hw3_pw_generator)
